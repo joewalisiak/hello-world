@@ -4,5 +4,5 @@ My name is Joe. I am a junior at the University of Iowa studying Business Analyt
 
 # Files Used
 ## **Project Title**
-### *Description*
-#### *How to run program*
+## *Description*
+## *How to run program*
